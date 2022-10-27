@@ -35,4 +35,12 @@ Anything that can be accessed or manipulates. Examples are videos, blog entries,
 Resources can be grouped into collections 
 
 
-HTTP Methods 
+HTTP Methods-The four most commonly used methods are GET,POST, PUT,DELETE
+
+The term HTTP verb is also used interchangeably 
+
+
+GET methods are considered to be safe and idempotent
+
+PUT method allows the client to modify a resource state. 
+Client modific the state of a resourse and send the updated rep to the server using a PUT method. 
